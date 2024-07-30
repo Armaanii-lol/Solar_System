@@ -1,0 +1,15 @@
+{
+    "name": "Solar System",
+    "short_name": "Solar System",
+    "start_url": "index.html",
+    "display": "fullscreen",
+    "background_color": "#231F20",
+    "theme_color": "#000",
+    "description": "Solar System by 221VOA19",
+    "icons": [{
+      "src": "TemplateData/icons/unity-logo-dark.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }]
+  }
